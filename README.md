@@ -1,4 +1,4 @@
-# Costom Lang
+# Custom Lang
 Custom Lang Pack for Minecraft
 
 # Want to Help out
